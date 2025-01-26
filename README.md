@@ -1,3 +1,7 @@
+# Exploring Cryptographic Attacks and Countermeasures
+
+This project investigates common cryptographic attacks and their implications, including Rainbow Table, Credential Stuffing, Man-in-the-Middle (MITM), and Padding Oracle attacks. It analyzes real-world examples and proposes effective countermeasures to enhance data security.
+
 ---
 
 ## Table of Contents
@@ -8,7 +12,6 @@
 - [Future Work](#future-work)
 - [Technologies Used](#technologies-used)
 - [How to Use](#how-to-use)
-- [License](#license)
 
 ---
 
@@ -69,7 +72,6 @@ Cryptographic vulnerabilities are a critical threat to data security. This proje
 
 ## Technologies Used
 
-- **Python**: For analyzing cryptographic techniques.
 - **Research Papers**: Referenced for real-world case studies and countermeasures.
 - **Encryption Libraries**: Practical demonstrations of attacks and solutions.
 
@@ -83,12 +85,6 @@ Cryptographic vulnerabilities are a critical threat to data security. This proje
    ```
 2. Review the `Exploring_Cryptographic_Attacks.pdf` report for detailed insights.
 3. Use the examples provided to understand and simulate cryptographic vulnerabilities and solutions.
-
----
-
-## License
-
-This project is licensed under the MIT License. Contributions and modifications are welcome.
 
 ---
 
