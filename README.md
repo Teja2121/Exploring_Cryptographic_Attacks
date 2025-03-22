@@ -81,7 +81,7 @@ Cryptographic vulnerabilities are a critical threat to data security. This proje
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Teja2121/Exploring_Cryptographic_Attacks
+   git clone https://github.com/Teja2121/Exploring_Cryptographic_Attacks.git
    ```
 2. Review the `Exploring_Cryptographic_Attacks.pdf` report for detailed insights.
 3. Use the examples provided to understand and simulate cryptographic vulnerabilities and solutions.
